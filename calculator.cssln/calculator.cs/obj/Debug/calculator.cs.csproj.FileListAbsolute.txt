@@ -10,3 +10,6 @@ C:\Users\HP\documents\visual studio 2013\Projects\calculator.cssln\calculator.cs
 C:\Users\HP\Documents\Visual Studio 2013\Projects\Calculator\calculator.cssln\calculator.cs\bin\Debug\calculator.cs.exe.config
 C:\Users\HP\Documents\Visual Studio 2013\Projects\Calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.exe
 C:\Users\HP\Documents\Visual Studio 2013\Projects\Calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.pdb
+F:\calculator\calculator.cssln\calculator.cs\bin\Debug\calculator.cs.exe.config
+F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.exe
+F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.pdb

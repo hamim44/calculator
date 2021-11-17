@@ -12,7 +12,7 @@ namespace calculator.cs
 {
     public partial class Form1 : Form
     {
-        private float fnum, snum;
+        private float fnum, snum; //float number assign
         private float result;
         private char opt;
         private bool flag = false;
