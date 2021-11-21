@@ -13,3 +13,9 @@ C:\Users\HP\Documents\Visual Studio 2013\Projects\Calculator\calculator.cssln\ca
 F:\calculator\calculator.cssln\calculator.cs\bin\Debug\calculator.cs.exe.config
 F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.exe
 F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.pdb
+F:\calculator\calculator.cssln\calculator.cs\bin\Debug\calculator.cs.exe
+F:\calculator\calculator.cssln\calculator.cs\bin\Debug\calculator.cs.pdb
+F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.csprojResolveAssemblyReference.cache
+F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.Form1.resources
+F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.Properties.Resources.resources
+F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.csproj.GenerateResource.Cache
