@@ -52,7 +52,7 @@
             // 
             // btnOne
             // 
-            this.btnOne.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOne.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOne.Location = new System.Drawing.Point(34, 233);
             this.btnOne.Name = "btnOne";
             this.btnOne.Size = new System.Drawing.Size(63, 34);

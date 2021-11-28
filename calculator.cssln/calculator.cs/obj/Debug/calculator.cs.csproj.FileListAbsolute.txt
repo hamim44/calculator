@@ -19,3 +19,12 @@ F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.csprojResol
 F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.Form1.resources
 F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.Properties.Resources.resources
 F:\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\New folder (2)\calculator\calculator.cssln\calculator.cs\bin\Debug\calculator.cs.exe.config
+C:\Users\HP\Desktop\New folder (2)\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.exe
+C:\Users\HP\Desktop\New folder (2)\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.pdb
+C:\Users\HP\Desktop\New folder (2)\calculator\calculator.cssln\calculator.cs\bin\Debug\calculator.cs.exe
+C:\Users\HP\Desktop\New folder (2)\calculator\calculator.cssln\calculator.cs\bin\Debug\calculator.cs.pdb
+C:\Users\HP\Desktop\New folder (2)\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\New folder (2)\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.Form1.resources
+C:\Users\HP\Desktop\New folder (2)\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.Properties.Resources.resources
+C:\Users\HP\Desktop\New folder (2)\calculator\calculator.cssln\calculator.cs\obj\Debug\calculator.cs.csproj.GenerateResource.Cache
