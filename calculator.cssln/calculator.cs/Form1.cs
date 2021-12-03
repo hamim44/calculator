@@ -13,7 +13,7 @@ namespace calculator.cs
     public partial class Form1 : Form
     {
         private float fnum, snum; //float number assign
-        private float result; 
+        private float result;  //float number assign  
         private char opt;
         private bool flag = false;
         public Form1()

@@ -154,7 +154,7 @@
             this.btnSub.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSub.Location = new System.Drawing.Point(305, 233);
             this.btnSub.Name = "btnSub";
-            this.btnSub.Size = new System.Drawing.Size(61, 46);
+            this.btnSub.Size = new System.Drawing.Size(61, 39);
             this.btnSub.TabIndex = 11;
             this.btnSub.Text = "-";
             this.btnSub.UseVisualStyleBackColor = true;
